@@ -1,0 +1,5 @@
+Metric;CNN Baseline;VLM 1;Abs Improvement
+Overall Accuracy;58.90%;66.67%;+7.77%
+Macro F1-Score;0.1177;0.5694;+0.4517
+Closed Questions (Yes/No);67.39%;67.64%;+0.25%
+Open Questions (Other);3.80%;60.33%;+56.52%
