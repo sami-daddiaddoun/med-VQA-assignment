@@ -52,7 +52,8 @@ Please note that the notebooks were developed and executed in different environm
     * *Reason:* Leveraged Kaggle's native access to the VQA-RAD dataset and stable GPU environment for the heavier BERT-based model.
 
 **Important:**please update the `BASE_PATH` variable in the configuration cell to match your local dataset location.
-
+## Acknowledgment 
+The Gemini AI tool was used as an assistant for debugging purpose for certain parts of the code. 
 ## Requirements
 To run the notebooks, the following libraries are required:
 ```python
@@ -63,3 +64,4 @@ scikit-learn
 opencv-python
 nltk
 seaborn
+
